@@ -8,4 +8,4 @@ Developing a compelling product vision and aligning the organization around stra
 
 ## 🔎 Product Discovery
 Building a continuous discovery mindset to uncover customer needs and solutions that address them.
-* [Product Discovery - A Practical Guide for Product Teams](https://herbig.co/product-discovery/) - Tim Herbig (PM Coach & Consultant), 2023
+* [Product Discovery - A Practical Guide for Product Teams](https://herbig.co/product-discovery/) - Tim Herbig (PM coach and consultant), 2023
