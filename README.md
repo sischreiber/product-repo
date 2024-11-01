@@ -3,4 +3,5 @@ A curated collection of resources and guides for product managers. Whether you'r
 
 ## 🧭 Product Strategy
 Developing a compelling product vision and aligning the organization around strategic objectives.
+
 [How to Define Your Product Strategy](https://gibsonbiddle.medium.com/intro-to-product-strategy-60bdf72b17e3) - Gibson Biddle (former VP at Netflix), 2019
