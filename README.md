@@ -4,8 +4,8 @@ A curated collection of resources and guides for product managers. Whether you'r
 ## 🧭 Product Strategy
 Developing a compelling product vision and aligning the organization around strategic objectives.
 * [How to Define Your Product Strategy](https://gibsonbiddle.medium.com/intro-to-product-strategy-60bdf72b17e3) - Gibson Biddle (former VP at Netflix), 2019
-* [Product Strategy Overview](https://www.svpg.com/product-strategy-overview/) - Marty Cagan (product guru), SVPG, 2020
-* [What Exactly Is a Product Strategy](https://www.romanpichler.com/blog/what-is-a-product-strategy/) - Roman Pichler (coach, trainer, author), 2023
+* [Product Strategy Overview](https://www.svpg.com/product-strategy-overview/) - Marty Cagan (product celebrity), SVPG, 2020
+* [What Exactly Is a Product Strategy](https://www.romanpichler.com/blog/what-is-a-product-strategy/) - Roman Pichler (coach and author), 2023
 
 ## 🔎 Product Discovery
 Building a continuous discovery mindset to uncover customer needs and solutions that address them.
