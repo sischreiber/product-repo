@@ -16,14 +16,24 @@ Developing a compelling product vision and aligning the organization around stra
 Building a continuous discovery mindset to uncover customer needs and solutions that address them.
 * [Product Discovery - A Practical Guide for Product Teams](https://herbig.co/product-discovery/) - Tim Herbig, 2023
 
+## AI
+* [How AI will impact product management](https://www.lennysnewsletter.com/p/how-ai-will-impact-product-management) - Lenny Rachitsky, 2024
+
 ## 🛠️ Agile Methodologies
 Work collaboratively to deliver value in small, continuous steps.
 * [Agile Software Guide](https://martinfowler.com/agile.html) - Martin Fowler, 2019
 
 ## ⚡ Product Growth
 Strategies and actions to promote the growth of a product.
+* [How the biggest consumer apps got their first 1,000 users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got) 🔒 - Lenny Rachitsky, 2024
 * [Do Things That Don’t Scale](https://www.paulgraham.com/ds.html) - Paul Graham, 2013
 * [Super successful companies](https://blog.samaltman.com/super-successful-companies) - Sam Altman, 2014
 
 ## 🌍 Product-Market Fit
-* [The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen , 2007
+* [The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen, 2007
+
+## Career Development
+* []()
+
+## Hiring Product Managers
+* [How to learn the most about a candidate from a single interview question](https://www.lennysnewsletter.com/p/how-to-learn-the-most-about-a-candidate) - Lenny Rachitsky, 2024
