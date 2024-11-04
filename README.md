@@ -22,7 +22,7 @@ Work collaboratively to deliver value in small, continuous steps.
 
 ## ⚡ Product Growth
 Strategies and actions to promote the growth of a product.
-* [Do Things That Don’t Scale](https://www.paulgraham.com/ds.html)
+* [Do Things That Don’t Scale](https://www.paulgraham.com/ds.html) - Paul Graham, 2013
 * [Super successful companies](https://blog.samaltman.com/super-successful-companies) - Sam Altman, 2014
 
 ## 🌍 Product-Market Fit
