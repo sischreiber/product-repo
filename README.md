@@ -5,11 +5,6 @@ A curated collection of resources for product managers. Whether you're new to pr
 Leveraging the product as the primary driver for customer acquisition, retention and expansion.
 * [Product-Led Growth (PLG)](https://productled.com/blog/product-led-growth-definition) - Wes Bush, 2024
 
-## ⚡ Product Growth
-Strategies and actions to promote the growth of a product.
-* [Do Things That Don’t Scale](https://www.paulgraham.com/ds.html)
-* [Super successful companies](https://blog.samaltman.com/super-successful-companies) - Sam Altman, 2014
-
 ## 🧭 Product Strategy
 Developing a compelling product vision and aligning the organization around strategic objectives.
 * [What Exactly Is a Product Strategy](https://www.romanpichler.com/blog/what-is-a-product-strategy/) - Roman Pichler, 2023
@@ -24,6 +19,11 @@ Building a continuous discovery mindset to uncover customer needs and solutions 
 ## 🛠️ Agile Methodologies
 Work collaboratively to deliver value in small, continuous steps.
 * [Agile Software Guide](https://martinfowler.com/agile.html) - Martin Fowler, 2019
+
+## ⚡ Product Growth
+Strategies and actions to promote the growth of a product.
+* [Do Things That Don’t Scale](https://www.paulgraham.com/ds.html)
+* [Super successful companies](https://blog.samaltman.com/super-successful-companies) - Sam Altman, 2014
 
 ## 🌍 Product-Market Fit
 * [The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen , 2007
