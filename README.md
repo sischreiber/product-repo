@@ -18,9 +18,11 @@ Developing a compelling product vision and aligning the organization around stra
 Product culture at the five major U.S. tech companies: Facebook, Amazon, Apple, Netflix, and Google.
 
 ## 🪜 Career Development
+Achieving professional growth as a product manager.
 * [Are We Getting Rid of Product Managers?](https://melissaperri.com/blog/2023/7/7/are-we-getting-rid-of-product-managers) - Melissa Perri, 2023
 
 ## 🌟 Product Leadership
+Empower teams. Drive strategy. Develop team members.
 * [Decoding Product Leadership](https://romanpichler.medium.com/decoding-product-leadership-64b2a3a26074) - Roman Pichler, 2023
 * [From Managing Products To Managing Product Managers](https://www.svpg.com/managing-products-managing-product-managers/) - Chris Jones (SVPG), 2017
 
@@ -29,16 +31,20 @@ Building a continuous discovery mindset to uncover customer needs and solutions 
 * [Product Discovery - A Practical Guide for Product Teams](https://herbig.co/product-discovery/) - Tim Herbig, 2023
 
 ## 🦾 AI
+No longer the next big thing, but an integral part of product development.
 * [How AI will impact product management](https://www.lennysnewsletter.com/p/how-ai-will-impact-product-management) 🔒 - Lenny Rachitsky, 2024
 
 ## ⚙️ Product Ops
+Enabling product management.
+* [Product Ops Overview](https://www.svpg.com/product-ops-overview/) - Marty Cagan, 2020
 * [Product Operations: The Fuel for Winning Product Strategies](https://melissaperri.com/blog/2019/7/19/product-operations-the-fuel-for-winning-product-strategies) - Melissa Perri, 2019
 
 ## 🛠️ Agile Methodologies
 Work collaboratively to deliver value in small, continuous steps.
 * [Agile Software Guide](https://martinfowler.com/agile.html) - Martin Fowler, 2019
 
-## 🏛️ Organization
+## 🏛️ Org Design
+Defining team boundaries for effective software delivery.
 * [Three Organizational Design Principles](https://cutlefish.substack.com/p/tbm-269-three-organizational-design) - John Cutler, 2024
 * [Building a Great Product Management Organization](https://melissaperri.com/blog/2024/7/16/building-a-great-product-management-organization) - Melissa Perri, 2024
 * [The Product Model and Org Design](https://www.svpg.com/the-product-model-and-org-design/) - Marty Cagan, 2024
@@ -50,9 +56,11 @@ Strategies and actions to promote the growth of a product.
 * [Super successful companies](https://blog.samaltman.com/super-successful-companies) - Sam Altman, 2014
 
 ## 🌍 Product-Market Fit
+Without a market, there is no product.
 * [The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen, 2007
 
 ## ☁️ Platform Product Management
+The product serving the product.
 * [What is platform as a product?](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies) - Matthew Skelton, 2021
 * [Platforms as products](https://www.thoughtworks.com/insights/looking-glass/platforms-as-products) - Thoughtworks, 2024
 * [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html) - Pete Hodgson (martinfowler.com), 2023
