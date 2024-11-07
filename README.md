@@ -14,9 +14,6 @@ Developing a compelling product vision and aligning the organization around stra
 * [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy) - John Cutler, 2022
 * [Things You Should Never Do, Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) - Joel Spolsky, 2000
 
-## 🇺🇸 FAANG Product Culture
-Product culture at the five major U.S. tech companies: Facebook, Amazon, Apple, Netflix, and Google.
-
 ## 🪜 Career Development
 Achieving professional growth as a product manager.
 * [Are We Getting Rid of Product Managers?](https://melissaperri.com/blog/2023/7/7/are-we-getting-rid-of-product-managers) - Melissa Perri, 2023
