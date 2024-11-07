@@ -22,7 +22,7 @@ Achieving professional growth as a product manager.
 * [Are We Getting Rid of Product Managers?](https://melissaperri.com/blog/2023/7/7/are-we-getting-rid-of-product-managers) - Melissa Perri, 2023
 
 ## 🌟 Product Leadership
-Empower teams. Drive strategy. Develop team members.
+Empowering teams. Driving strategy. Developing team members.
 * [Decoding Product Leadership](https://romanpichler.medium.com/decoding-product-leadership-64b2a3a26074) - Roman Pichler, 2023
 * [From Managing Products To Managing Product Managers](https://www.svpg.com/managing-products-managing-product-managers/) - Chris Jones (SVPG), 2017
 
@@ -70,5 +70,6 @@ PRDs, strategy, roadmap and many more.
 * [My favorite product management templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37) - Lenny Rachitsky, 2020
 
 ## 🤝 Hiring Product Managers
+One of the most critical tasks for building strong product teams.
 * [How to learn the most about a candidate from a single interview question](https://www.lennysnewsletter.com/p/how-to-learn-the-most-about-a-candidate) 🔒 - Lenny Rachitsky, 2024
 * [Chris Favorite Interview Question](https://www.svpg.com/chris-favorite-interview-question/) - Chris Jones (SVPG), 2018
