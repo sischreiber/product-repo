@@ -5,10 +5,12 @@ A curated collection of resources for product managers. Whether you're new to pr
 Leveraging the product as the primary driver for customer acquisition, retention and expansion.
 * [Product-Led Growth (PLG)](https://productled.com/blog/product-led-growth-definition) - Wes Bush, 2024
 * [Survey insights: Economic downturn is driving companies to embrace product-led growth](https://www.mindtheproduct.com/survey-insights-economic-downturn-is-driving-companies-to-embrace-product-led-growth/) - Louron Pratt, Mind the Product, 2023
-* [Keys to Product-Led Growth for Tech Providers](https://www.gartner.com/en/articles/keys-to-product-led-growth-for-tech-providers) - Gartner, 2023
-* [6 tips to accelerate your product-led growth mindset](https://www.thoughtworks.com/en-de/insights/blog/product-innovation/six-tips-to-accelerate-your-product-led-growth-mindset) - Thoughtworks, 2022 
 
-
+## 🇺🇸 Product Management in Leading Tech Companies
+Learning from the product management culture and best practices.
+* [Building Products at Airbnb](https://www.bringthedonuts.com/essays/building-products-at-airbnb/) - Ken Norton, 2021
+* [Building Products at Stripe](https://www.bringthedonuts.com/essays/building-products-at-stripe/) - Ken Norton, 2021
+ 
 ## 🧭 Product Strategy
 Developing a compelling product vision and aligning the organization around strategic objectives.
 * [Good Product Strategy, Bad Product Strategy](https://www.linkedin.com/pulse/good-product-strategy-bad-shreyas-doshi/) - Shreyas Doshi, 2023
@@ -21,6 +23,7 @@ Developing a compelling product vision and aligning the organization around stra
 ## 🪜 Career Development
 Achieving professional growth as a product manager.
 * [Are We Getting Rid of Product Managers?](https://melissaperri.com/blog/2023/7/7/are-we-getting-rid-of-product-managers) - Melissa Perri, 2023
+* [It’s Time to Fight for a Dual PM Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - Ken Norton, 2021
 
 ## 🌟 Product Leadership
 Empowering teams. Driving strategy. Developing team members.
@@ -30,6 +33,9 @@ Empowering teams. Driving strategy. Developing team members.
 ## 🔎 Product Discovery
 Building a continuous discovery mindset to uncover customer needs and solutions that address them.
 * [Product Discovery - A Practical Guide for Product Teams](https://herbig.co/product-discovery/) - Tim Herbig, 2023
+
+## 🚦 Prioritization
+* []() -
 
 ## 🦾 AI
 No longer the next big thing, but an integral part of product development.
@@ -43,6 +49,10 @@ Enabling product management.
 ## 🛠️ Agile Methodologies
 Work collaboratively to deliver value in small, continuous steps.
 * [Agile Software Guide](https://martinfowler.com/agile.html) - Martin Fowler, 2019
+
+## 📖 Books for Product Managers
+Essential reading lists.
+* [Best Books for Product Managers](https://www.bringthedonuts.com/essays/books-for-product-managers.html) - Ken Norton, 2024
 
 ## 🏛️ Org Design
 Defining team boundaries for effective software delivery.
@@ -72,5 +82,6 @@ PRDs, strategy, roadmap and many more.
 
 ## 🤝 Hiring Product Managers
 One of the most critical tasks for building strong product teams.
+* [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) - Ken Norton, published in 2005 and updated in 2023
 * [How to learn the most about a candidate from a single interview question](https://www.lennysnewsletter.com/p/how-to-learn-the-most-about-a-candidate) 🔒 - Lenny Rachitsky, 2024
 * [Chris Favorite Interview Question](https://www.svpg.com/chris-favorite-interview-question/) - Chris Jones (SVPG), 2018
