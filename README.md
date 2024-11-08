@@ -28,14 +28,15 @@ Achieving professional growth as a product manager.
 ## 🌟 Product Leadership
 Empowering teams. Driving strategy. Developing team members.
 * [Decoding Product Leadership](https://romanpichler.medium.com/decoding-product-leadership-64b2a3a26074) - Roman Pichler, 2023
-* [From Managing Products To Managing Product Managers](https://www.svpg.com/managing-products-managing-product-managers/) - Chris Jones (SVPG), 2017
+* [From Managing Products To Managing Product Managers](https://www.svpg.com/managing-products-managing-product-managers/) - Chris Jones, SVPG, 2017
+
+## 🧬 Fundamentals
+* [10 things I learned from Jason Fried about Building Products](https://uxplanet.org/10-things-i-learned-from-jason-fried-about-building-products-5b6694ff02aa), Jonathan Courtney, 2018
+* [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) 🔒 - Julia Austin, HBR, 2017
 
 ## 🔎 Product Discovery
 Building a continuous discovery mindset to uncover customer needs and solutions that address them.
 * [Product Discovery - A Practical Guide for Product Teams](https://herbig.co/product-discovery/) - Tim Herbig, 2023
-
-## 🚦 Prioritization
-* []() -
 
 ## 🦾 AI
 No longer the next big thing, but an integral part of product development.
@@ -82,6 +83,11 @@ PRDs, strategy, roadmap and many more.
 
 ## 🤝 Hiring Product Managers
 One of the most critical tasks for building strong product teams.
+* [Interviewing your first product manager](https://joshelman.medium.com/interviewing-your-first-product-manager-8b26badad98d) - Josh Elman, 2022
 * [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) - Ken Norton, published in 2005 and updated in 2023
 * [How to learn the most about a candidate from a single interview question](https://www.lennysnewsletter.com/p/how-to-learn-the-most-about-a-candidate) 🔒 - Lenny Rachitsky, 2024
 * [Chris Favorite Interview Question](https://www.svpg.com/chris-favorite-interview-question/) - Chris Jones (SVPG), 2018
+
+## 🚦 Prioritization
+
+## 🎤 Product Talks 
