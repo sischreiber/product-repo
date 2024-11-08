@@ -4,6 +4,10 @@ A curated collection of resources for product managers. Whether you're new to pr
 ## 🌱 Product-Led Growth (PLG)
 Leveraging the product as the primary driver for customer acquisition, retention and expansion.
 * [Product-Led Growth (PLG)](https://productled.com/blog/product-led-growth-definition) - Wes Bush, 2024
+* [Survey insights: Economic downturn is driving companies to embrace product-led growth](https://www.mindtheproduct.com/survey-insights-economic-downturn-is-driving-companies-to-embrace-product-led-growth/) - Louron Pratt, Mind the Product, 2023
+* [Keys to Product-Led Growth for Tech Providers](https://www.gartner.com/en/articles/keys-to-product-led-growth-for-tech-providers) - Gartner, 2023
+* [6 tips to accelerate your product-led growth mindset](https://www.thoughtworks.com/en-de/insights/blog/product-innovation/six-tips-to-accelerate-your-product-led-growth-mindset) - Thoughtworks, 2022 
+
 
 ## 🧭 Product Strategy
 Developing a compelling product vision and aligning the organization around strategic objectives.
