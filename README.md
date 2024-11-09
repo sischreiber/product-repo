@@ -1,5 +1,5 @@
 # 📚 Product Repo
-A curated collection of resources for product managers. Whether you're new to product management or a professional, this guide aims to provide insights into the different areas of the profession.
+A curated collection of product management resources.
 
 ## 🌱 Product-Led Growth (PLG)
 Leveraging the product as the primary driver for customer acquisition, retention and expansion.
@@ -81,7 +81,7 @@ The product enabling the product.
 * [Platforms as products](https://www.thoughtworks.com/insights/looking-glass/platforms-as-products) - Thoughtworks, 2024
 * [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html) - Pete Hodgson (martinfowler.com), 2023
 
-## Product Coaching
+## ✨ Product Coaching
 * [Product Coaching and “Show, Don’t Tell”](https://www.mironov.com/show-tell/) - Rich Mironov, 2022
 
 ## 📑 Product Management Templates
