@@ -32,6 +32,7 @@ Empowering teams. Driving strategy. Developing team members.
 * [Decoding Product Leadership](https://romanpichler.medium.com/decoding-product-leadership-64b2a3a26074) - Roman Pichler, 2023
 * [From Managing Products To Managing Product Managers](https://www.svpg.com/managing-products-managing-product-managers/) - Chris Jones, SVPG, 2017
 * [I Asked What Exactly Do We Mean by “Product Leaders”—Here’s How People Answered](https://www.petra-wille.com/blog/i-asked-what-exactly-do-we-mean-by-product-leadersheres-how-people-answered) - Petra Wille, 2023
+* [Clarity for Product Leaders](https://www.arnekittler.de/blog/clarity-for-product-leaders) - Arne Kittler, 2024
 
 ## 🧬 Fundamentals
 * [10 things I learned from Jason Fried about Building Products](https://uxplanet.org/10-things-i-learned-from-jason-fried-about-building-products-5b6694ff02aa), Jonathan Courtney, 2018
