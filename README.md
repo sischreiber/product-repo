@@ -89,12 +89,14 @@ PRDs, strategy, roadmap and many more.
 
 ## 🤝 Hiring Product Managers
 One of the most critical tasks for building strong product teams.
+* [Hiring a Head of Product](https://www.mironov.com/hiring/) - Rich Mironov, 2020
 * [Interviewing your first product manager](https://joshelman.medium.com/interviewing-your-first-product-manager-8b26badad98d) - Josh Elman, 2022
 * [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) - Ken Norton, published in 2005 and updated in 2023
 * [How to learn the most about a candidate from a single interview question](https://www.lennysnewsletter.com/p/how-to-learn-the-most-about-a-candidate) 🔒 - Lenny Rachitsky, 2024
 * [Chris Favorite Interview Question](https://www.svpg.com/chris-favorite-interview-question/) - Chris Jones (SVPG), 2018
 
 ## 🚦 Prioritization
+* [Prioritization is a Political Problem as Much as an Analytical Problem](https://www.mironov.com/pri-politics/) - Rich Mironov, 2022
 * [My Next Word to Retire is 'Prioritization'](https://www.mironov.com/prioritize/) - Rich Mironov, 2024
 
 ## 🎤 Product Talks 
