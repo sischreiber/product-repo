@@ -1,5 +1,5 @@
 # 📚 Product Repo
-A curated collection of resources for product managers. Whether you're new to product management or a professional, this guide aims to provide insights into the different areas of the profession. I focus on articles from product people who have left a footprint in the industry. Contributions are welcome!
+A curated collection of resources for product managers. Whether you're new to product management or a professional, this guide aims to provide insights into the different areas of the profession.
 
 ## 🌱 Product-Led Growth (PLG)
 Leveraging the product as the primary driver for customer acquisition, retention and expansion.
