@@ -15,6 +15,7 @@ Learning from the product management culture and best practices.
 Developing a compelling product vision and aligning the organization around strategic objectives.
 * [Good Product Strategy, Bad Product Strategy](https://www.linkedin.com/pulse/good-product-strategy-bad-shreyas-doshi/) - Shreyas Doshi, 2023
 * [What Exactly Is a Product Strategy](https://www.romanpichler.com/blog/what-is-a-product-strategy/) - Roman Pichler, 2023
+* [Product Strategy Depends on Company Strategy](https://www.mironov.com/strat-layers/) - Rich Mironov, 2024
 * [How to Define Your Product Strategy](https://gibsonbiddle.medium.com/intro-to-product-strategy-60bdf72b17e3) - Gibson Biddle, 2019
 * [Product Strategy Overview](https://www.svpg.com/product-strategy-overview/) - Marty Cagan, 2020
 * [Why Don’t We Have a Strategy?](https://cutlefish.substack.com/p/tbm-3052-why-do-we-have-no-strategy) - John Cutler, 2022
@@ -22,6 +23,7 @@ Developing a compelling product vision and aligning the organization around stra
 
 ## 🪜 Career Development
 Achieving professional growth as a product manager.
+* [Moving Up to Product Director](https://www.mironov.com/moving-up/) - Rich Mironov, 2024
 * [Are We Getting Rid of Product Managers?](https://melissaperri.com/blog/2023/7/7/are-we-getting-rid-of-product-managers) - Melissa Perri, 2023
 * [It’s Time to Fight for a Dual PM Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - Ken Norton, 2021
 
@@ -29,6 +31,7 @@ Achieving professional growth as a product manager.
 Empowering teams. Driving strategy. Developing team members.
 * [Decoding Product Leadership](https://romanpichler.medium.com/decoding-product-leadership-64b2a3a26074) - Roman Pichler, 2023
 * [From Managing Products To Managing Product Managers](https://www.svpg.com/managing-products-managing-product-managers/) - Chris Jones, SVPG, 2017
+* [I Asked What Exactly Do We Mean by “Product Leaders”—Here’s How People Answered](https://www.petra-wille.com/blog/i-asked-what-exactly-do-we-mean-by-product-leadersheres-how-people-answered) - Petra Wille, 2023
 
 ## 🧬 Fundamentals
 * [10 things I learned from Jason Fried about Building Products](https://uxplanet.org/10-things-i-learned-from-jason-fried-about-building-products-5b6694ff02aa), Jonathan Courtney, 2018
@@ -72,10 +75,13 @@ Without a market, there is no product.
 * [The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen, 2007
 
 ## ☁️ Platform Product Management
-The product serving the product.
+The product enabling the product.
 * [What is platform as a product?](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies) - Matthew Skelton, 2021
 * [Platforms as products](https://www.thoughtworks.com/insights/looking-glass/platforms-as-products) - Thoughtworks, 2024
 * [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html) - Pete Hodgson (martinfowler.com), 2023
+
+## Product Coaching
+* [Product Coaching and “Show, Don’t Tell”](https://www.mironov.com/show-tell/) - Rich Mironov, 2022
 
 ## 📑 Product Management Templates
 PRDs, strategy, roadmap and many more.
@@ -89,5 +95,7 @@ One of the most critical tasks for building strong product teams.
 * [Chris Favorite Interview Question](https://www.svpg.com/chris-favorite-interview-question/) - Chris Jones (SVPG), 2018
 
 ## 🚦 Prioritization
+* [My Next Word to Retire is 'Prioritization'](https://www.mironov.com/prioritize/) - Rich Mironov, 2024
 
 ## 🎤 Product Talks 
+* [Business Cases are Stories about Money (Video from Product@Heart)](https://www.mironov.com/moneystories-ph/) - Rich Mironov, 2024
