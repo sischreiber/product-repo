@@ -6,10 +6,12 @@ Leveraging the product as the primary driver for growth.
 * [Product-Led Growth (PLG)](https://productled.com/blog/product-led-growth-definition) - Wes Bush, 2024
 * [Survey insights: Economic downturn is driving companies to embrace product-led growth](https://www.mindtheproduct.com/survey-insights-economic-downturn-is-driving-companies-to-embrace-product-led-growth/) - Louron Pratt, Mind the Product, 2023
 
-## 🇺🇸 Product Management in Leading Tech Companies
+## 🌍 Product Management in Leading Tech Companies
 Learning from the product management culture and best practices.
 * [Building Products at Airbnb](https://www.bringthedonuts.com/essays/building-products-at-airbnb/) - Ken Norton, 2021
 * [Building Products at Stripe](https://www.bringthedonuts.com/essays/building-products-at-stripe/) - Ken Norton, 2021
+* [The Product Model at Amazon ](https://www.svpg.com/product-model-at-amazon/) - Marty Cagan and Richard Russell, 2024
+* [The Product Model at Spotify](https://www.svpg.com/product-model-at-spotify/) - Marty Cagan and Joakim Sundén, 2023
  
 ## 🧭 Product Strategy
 Developing a compelling product vision and aligning the organization around strategic objectives.
@@ -34,7 +36,7 @@ Empowering teams. Driving strategy. Developing team members.
 * [I Asked What Exactly Do We Mean by “Product Leaders”—Here’s How People Answered](https://www.petra-wille.com/blog/i-asked-what-exactly-do-we-mean-by-product-leadersheres-how-people-answered) - Petra Wille, 2023
 * [Clarity for Product Leaders](https://www.arnekittler.de/blog/clarity-for-product-leaders) - Arne Kittler, 2024
 
-## 🧬 Fundamentals
+## 🧬 Product Management Fundamentals
 * [Product Management: It’s a System for Business Success, not Product Features](https://swkhan.medium.com/product-management-its-a-system-for-business-success-not-product-features-fefa2662621f) - Saeed Khan, 2023
 * [10 things I learned from Jason Fried about Building Products](https://uxplanet.org/10-things-i-learned-from-jason-fried-about-building-products-5b6694ff02aa), Jonathan Courtney, 2018
 * [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) 🔒 - Julia Austin, HBR, 2017
@@ -43,11 +45,12 @@ Empowering teams. Driving strategy. Developing team members.
 Building a continuous discovery mindset to uncover customer needs and solutions that address them.
 * [Product Discovery - A Practical Guide for Product Teams](https://herbig.co/product-discovery/) - Tim Herbig, 2023
 
-## ⚙️ AI
+## ⚙ AI
 No longer the next big thing, but an integral part of product development.
 * [How AI will impact product management](https://www.lennysnewsletter.com/p/how-ai-will-impact-product-management) 🔒 - Lenny Rachitsky, 2024
+* [You can learn AI later](https://world.hey.com/jason/you-can-learn-ai-later-08fce896) - Jason Fried, 2023
 
-## ⚙️ Product Ops
+## ⚙🛠️ Product Ops
 Enabling product management.
 * [Product Ops Overview](https://www.svpg.com/product-ops-overview/) - Marty Cagan, 2020
 * [Product Operations: The Fuel for Winning Product Strategies](https://melissaperri.com/blog/2019/7/19/product-operations-the-fuel-for-winning-product-strategies) - Melissa Perri, 2019
@@ -57,8 +60,9 @@ Bringing software products to the market.
 * [Product Managers Aren't Responsible for the Delivery of their Products](https://oneknightinproduct.substack.com/p/product-managers-arent-responsible) - Jason Knight, 2023
 * [Discovery – Delivery](https://www.svpg.com/discovery-delivery/) - Marty Cagan, 2020
 
-## 🛠️ Agile Methodologies
+## 🌀 Agile Methodologies
 Work collaboratively to deliver value in continuous steps.
+* [Avoiding pile-ups](https://world.hey.com/jason/avoiding-pile-ups-88f71f6b) - Jason Fried, 2024
 * [Agile Software Guide](https://martinfowler.com/agile.html) - Martin Fowler, 2019
 
 ## 📖 Books for Product Managers
@@ -77,7 +81,7 @@ Strategies and actions to promote the growth of a product.
 * [Do Things That Don’t Scale](https://www.paulgraham.com/ds.html) - Paul Graham, 2013
 * [Super successful companies](https://blog.samaltman.com/super-successful-companies) - Sam Altman, 2014
 
-## 🌍 Product-Market Fit
+## Product-Market Fit
 Without a market, there is no product.
 * [The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen, 2007
 
@@ -101,10 +105,16 @@ One of the most critical tasks for building strong product teams.
 * [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) - Ken Norton, published in 2005 and updated in 2023
 * [How to learn the most about a candidate from a single interview question](https://www.lennysnewsletter.com/p/how-to-learn-the-most-about-a-candidate) 🔒 - Lenny Rachitsky, 2024
 * [Chris Favorite Interview Question](https://www.svpg.com/chris-favorite-interview-question/) - Chris Jones (SVPG), 2018
+* [On hiring, rehiring, and one question to answer them all](https://world.hey.com/jason/on-hiring-rehiring-and-one-question-to-answer-them-all-5db97bcb) - Jason Fried, 2023
 
 ## 🚦 Prioritization
 * [Prioritization is a Political Problem as Much as an Analytical Problem](https://www.mironov.com/pri-politics/) - Rich Mironov, 2022
 * [My Next Word to Retire is 'Prioritization'](https://www.mironov.com/prioritize/) - Rich Mironov, 2024
+* [Changing How You Decide Which Problems To Solve](https://www.svpg.com/changing-how-you-decide-which-problems-to-solve/) - Jon Moore and Marty Cagan, 2022
+
+## 🧱 Roadmaps
+* [Promise not to promise](https://world.hey.com/jason/promise-not-to-promise-18eca88a) - Jason Fried, 2023
+* [The Alternative to Roadmaps](https://www.svpg.com/the-alternative-to-roadmaps/) - Marty Cagan, 2015
 
 ## 🎤 Product Talks 
 * [Business Cases are Stories about Money (Video from Product@Heart)](https://www.mironov.com/moneystories-ph/) - Rich Mironov, 2024
