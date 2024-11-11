@@ -2,7 +2,7 @@
 A curated collection of product management resources.
 
 ## 🌱 Product-Led Growth (PLG)
-Leveraging the product as the primary driver for customer acquisition, retention and expansion.
+Leveraging the product as the primary driver for growth.
 * [Product-Led Growth (PLG)](https://productled.com/blog/product-led-growth-definition) - Wes Bush, 2024
 * [Survey insights: Economic downturn is driving companies to embrace product-led growth](https://www.mindtheproduct.com/survey-insights-economic-downturn-is-driving-companies-to-embrace-product-led-growth/) - Louron Pratt, Mind the Product, 2023
 
@@ -35,6 +35,7 @@ Empowering teams. Driving strategy. Developing team members.
 * [Clarity for Product Leaders](https://www.arnekittler.de/blog/clarity-for-product-leaders) - Arne Kittler, 2024
 
 ## 🧬 Fundamentals
+* [Product Management: It’s a System for Business Success, not Product Features](https://swkhan.medium.com/product-management-its-a-system-for-business-success-not-product-features-fefa2662621f) - Saeed Khan, 2023
 * [10 things I learned from Jason Fried about Building Products](https://uxplanet.org/10-things-i-learned-from-jason-fried-about-building-products-5b6694ff02aa), Jonathan Courtney, 2018
 * [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) 🔒 - Julia Austin, HBR, 2017
 
@@ -42,7 +43,7 @@ Empowering teams. Driving strategy. Developing team members.
 Building a continuous discovery mindset to uncover customer needs and solutions that address them.
 * [Product Discovery - A Practical Guide for Product Teams](https://herbig.co/product-discovery/) - Tim Herbig, 2023
 
-## 🦾 AI
+## ⚙️ AI
 No longer the next big thing, but an integral part of product development.
 * [How AI will impact product management](https://www.lennysnewsletter.com/p/how-ai-will-impact-product-management) 🔒 - Lenny Rachitsky, 2024
 
@@ -51,8 +52,13 @@ Enabling product management.
 * [Product Ops Overview](https://www.svpg.com/product-ops-overview/) - Marty Cagan, 2020
 * [Product Operations: The Fuel for Winning Product Strategies](https://melissaperri.com/blog/2019/7/19/product-operations-the-fuel-for-winning-product-strategies) - Melissa Perri, 2019
 
+## ✅ Product Delivery
+Bringing software products to the market. 
+* [Product Managers Aren't Responsible for the Delivery of their Products](https://oneknightinproduct.substack.com/p/product-managers-arent-responsible) - Jason Knight, 2023
+* [Discovery – Delivery](https://www.svpg.com/discovery-delivery/) - Marty Cagan, 2020
+
 ## 🛠️ Agile Methodologies
-Work collaboratively to deliver value in small, continuous steps.
+Work collaboratively to deliver value in continuous steps.
 * [Agile Software Guide](https://martinfowler.com/agile.html) - Martin Fowler, 2019
 
 ## 📖 Books for Product Managers
