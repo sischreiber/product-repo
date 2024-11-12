@@ -52,7 +52,7 @@ No longer the next big thing, but an integral part of product development.
 * [You can learn AI later](https://world.hey.com/jason/you-can-learn-ai-later-08fce896) - Jason Fried, 2023
 * [AI Features Must Solve Real User Problems](https://www.nngroup.com/articles/ai-user-value/) - Kate Moran, Nielsen Norman Group, 2024
 
-## ⚙🛠️ Product Ops
+## 🛠️ Product Ops
 Enabling product management.
 * [Product Ops Overview](https://www.svpg.com/product-ops-overview/) - Marty Cagan, 2020
 * [Product Operations: The Fuel for Winning Product Strategies](https://melissaperri.com/blog/2019/7/19/product-operations-the-fuel-for-winning-product-strategies) - Melissa Perri, 2019
