@@ -5,6 +5,7 @@ A curated collection of product management resources.
 Leveraging the product as the primary driver for growth.
 * [Product-Led Growth (PLG)](https://productled.com/blog/product-led-growth-definition) - Wes Bush, 2024
 * [Survey insights: Economic downturn is driving companies to embrace product-led growth](https://www.mindtheproduct.com/survey-insights-economic-downturn-is-driving-companies-to-embrace-product-led-growth/) - Louron Pratt, Mind the Product, 2023
+* [Product-Led Growth and UX](https://www.nngroup.com/articles/product-led-growth-ux/) - Sara Paul, Nielsen Norman Group, 2023
 
 ## 🌍 Product Management in Leading Tech Companies
 Learning from the product management culture and best practices.
@@ -49,6 +50,7 @@ Building a continuous discovery mindset to uncover customer needs and solutions 
 No longer the next big thing, but an integral part of product development.
 * [How AI will impact product management](https://www.lennysnewsletter.com/p/how-ai-will-impact-product-management) 🔒 - Lenny Rachitsky, 2024
 * [You can learn AI later](https://world.hey.com/jason/you-can-learn-ai-later-08fce896) - Jason Fried, 2023
+* [AI Features Must Solve Real User Problems](https://www.nngroup.com/articles/ai-user-value/) - Kate Moran, Nielsen Norman Group, 2024
 
 ## ⚙🛠️ Product Ops
 Enabling product management.
