@@ -71,7 +71,7 @@ Work collaboratively to deliver value in continuous steps.
 ## 📖 Books for Product Managers
 Essential reading lists.
 * [Best Books for Product Managers](https://www.bringthedonuts.com/essays/books-for-product-managers.html) - Ken Norton, 2024
-* [https://res.productcompass.pm/top-product-management-books](Top Product Management Books) - Pawel Huryn
+* [Top Product Management Books](https://res.productcompass.pm/top-product-management-books) - Pawel Huryn
 
 ## 🏛️ Org Design
 Defining team boundaries for effective software delivery.
