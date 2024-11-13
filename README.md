@@ -6,6 +6,7 @@ Leveraging the product as the primary driver for growth.
 * [Product-Led Growth (PLG)](https://productled.com/blog/product-led-growth-definition) - Wes Bush, 2024
 * [Survey insights: Economic downturn is driving companies to embrace product-led growth](https://www.mindtheproduct.com/survey-insights-economic-downturn-is-driving-companies-to-embrace-product-led-growth/) - Louron Pratt, Mind the Product, 2023
 * [Product-Led Growth and UX](https://www.nngroup.com/articles/product-led-growth-ux/) - Sara Paul, Nielsen Norman Group, 2023
+* [Leah's Product-led Growth Guide 3.0]() - Leah Tharin, 2023
 
 ## 🌍 Product Management in Leading Tech Companies
 Learning from the product management culture and best practices.
@@ -70,6 +71,7 @@ Work collaboratively to deliver value in continuous steps.
 ## 📖 Books for Product Managers
 Essential reading lists.
 * [Best Books for Product Managers](https://www.bringthedonuts.com/essays/books-for-product-managers.html) - Ken Norton, 2024
+* [https://res.productcompass.pm/top-product-management-books](Top Product Management Books) - Pawel Huryn
 
 ## 🏛️ Org Design
 Defining team boundaries for effective software delivery.
@@ -83,7 +85,7 @@ Strategies and actions to promote the growth of a product.
 * [Do Things That Don’t Scale](https://www.paulgraham.com/ds.html) - Paul Graham, 2013
 * [Super successful companies](https://blog.samaltman.com/super-successful-companies) - Sam Altman, 2014
 
-## Product-Market Fit
+## 💯 Product-Market Fit
 Without a market, there is no product.
 * [The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen, 2007
 
@@ -97,7 +99,8 @@ The product enabling the product.
 * [Product Coaching and “Show, Don’t Tell”](https://www.mironov.com/show-tell/) - Rich Mironov, 2022
 
 ## 📑 Product Management Templates
-PRDs, strategy, roadmap and many more.
+PRDs, strategy, discovery, roadmap and many more.
+* [30+ Free Product Management Templates](https://www.productcompass.pm/p/free-product-management-templates) - Pawel Huryn, 2023
 * [My favorite product management templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37) - Lenny Rachitsky, 2020
 
 ## 🤝 Hiring Product Managers
@@ -105,9 +108,9 @@ One of the most critical tasks for building strong product teams.
 * [Hiring a Head of Product](https://www.mironov.com/hiring/) - Rich Mironov, 2020
 * [Interviewing your first product manager](https://joshelman.medium.com/interviewing-your-first-product-manager-8b26badad98d) - Josh Elman, 2022
 * [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) - Ken Norton, published in 2005 and updated in 2023
-* [How to learn the most about a candidate from a single interview question](https://www.lennysnewsletter.com/p/how-to-learn-the-most-about-a-candidate) 🔒 - Lenny Rachitsky, 2024
 * [Chris Favorite Interview Question](https://www.svpg.com/chris-favorite-interview-question/) - Chris Jones (SVPG), 2018
 * [On hiring, rehiring, and one question to answer them all](https://world.hey.com/jason/on-hiring-rehiring-and-one-question-to-answer-them-all-5db97bcb) - Jason Fried, 2023
+* [2000+ PM Interview Questions](https://docs.google.com/spreadsheets/d/1rz10oEeLx-eGnilahKczYPhGfCUzIEKL-xRnjoQ-SX4/edit?gid=1024620532#gid=1024620532) - Lewis Lin
 
 ## 🚦 Prioritization
 * [Prioritization is a Political Problem as Much as an Analytical Problem](https://www.mironov.com/pri-politics/) - Rich Mironov, 2022
@@ -117,6 +120,11 @@ One of the most critical tasks for building strong product teams.
 ## 🧱 Roadmaps
 * [Promise not to promise](https://world.hey.com/jason/promise-not-to-promise-18eca88a) - Jason Fried, 2023
 * [The Alternative to Roadmaps](https://www.svpg.com/the-alternative-to-roadmaps/) - Marty Cagan, 2015
+
+## 🔢 Analytics
+* [Are You Tracking the Right Metrics?](https://www.productcompass.pm/p/are-you-tracking-the-right-metrics) - Ben Yoskovitz, 2023
+* [AARRR vs RARRA: Pirate Metrics Explained](https://www.mindtheproduct.com/aarrr-vs-rarra-pirate-metrics-explained/) - Ben Crouch, 2020 
+* [The Role of Analytics](https://www.svpg.com/the-role-of-analytics/) - Marty Cagan, 2014
 
 ## 🎤 Product Talks 
 * [Business Cases are Stories about Money (Video from Product@Heart)](https://www.mironov.com/moneystories-ph/) - Rich Mironov, 2024
