@@ -52,6 +52,7 @@ No longer the next big thing, but an integral part of product development.
 * [How AI will impact product management](https://www.lennysnewsletter.com/p/how-ai-will-impact-product-management) 🔒 - Lenny Rachitsky, 2024
 * [You can learn AI later](https://world.hey.com/jason/you-can-learn-ai-later-08fce896) - Jason Fried, 2023
 * [AI Features Must Solve Real User Problems](https://www.nngroup.com/articles/ai-user-value/) - Kate Moran, Nielsen Norman Group, 2024
+* [Becoming an AI PM](https://www.lennysnewsletter.com/p/becoming-an-ai-pm-aman-khan) - Aman Khan 🎙️ Lenny's Podcast, 2024
 
 ## 🛠️ Product Ops
 Enabling product management.
@@ -67,6 +68,7 @@ Bringing software products to the market.
 Work collaboratively to deliver value in continuous steps.
 * [Avoiding pile-ups](https://world.hey.com/jason/avoiding-pile-ups-88f71f6b) - Jason Fried, 2024
 * [Agile Software Guide](https://martinfowler.com/agile.html) - Martin Fowler, 2019
+* [Early Pain](https://martinfowler.com/bliki/EarlyPain.html) - Martin Fowler, 2008
 
 ## 📖 Books for Product Managers
 Essential reading lists.
@@ -128,3 +130,11 @@ One of the most critical tasks for building strong product teams.
 
 ## 🎤 Product Talks 
 * [Business Cases are Stories about Money (Video from Product@Heart)](https://www.mironov.com/moneystories-ph/) - Rich Mironov, 2024
+
+## 📝 Best Practices: Release Notes
+How to document software product improvements and fixes.
+* [Docker Release Notes](https://docs.docker.com/engine/release-notes/)
+* [Slack Release Notes](https://slack.com/release-notes/)
+* [Google Cloud Release Notes](https://cloud.google.com/release-notes)
+* [Figma Release Notes](https://www.figma.com/de-de/release-notes/)
+* [Anthropic Release Notes](https://docs.anthropic.com/en/release-notes/overview)
