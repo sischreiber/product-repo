@@ -14,6 +14,8 @@ Learning from the product management culture and best practices.
 * [Building Products at Stripe](https://www.bringthedonuts.com/essays/building-products-at-stripe/) - Ken Norton, 2021
 * [The Product Model at Amazon ](https://www.svpg.com/product-model-at-amazon/) - Marty Cagan and Richard Russell, 2024
 * [The Product Model at Spotify](https://www.svpg.com/product-model-at-spotify/) - Marty Cagan and Joakim Sundén, 2023
+* [Inside How Stripe Crafts Quality Products](https://creatoreconomy.so/p/how-stripe-crafts-quality-products-katie-dill) - Peter Yang interviews Katie Dill, 2024
+* [How LinkedIn became interesting: The inside story](https://www.lennysnewsletter.com/p/how-linkedin-became-interesting-tomer-cohen) - Tomer Cohen 🎙️ Lenny's Podcast, 2024
  
 ## 🧭 Product Strategy
 Developing a compelling product vision and aligning the organization around strategic objectives.
@@ -53,6 +55,7 @@ No longer the next big thing, but an integral part of product development.
 * [You can learn AI later](https://world.hey.com/jason/you-can-learn-ai-later-08fce896) - Jason Fried, 2023
 * [AI Features Must Solve Real User Problems](https://www.nngroup.com/articles/ai-user-value/) - Kate Moran, Nielsen Norman Group, 2024
 * [Becoming an AI PM](https://www.lennysnewsletter.com/p/becoming-an-ai-pm-aman-khan) - Aman Khan 🎙️ Lenny's Podcast, 2024
+* [Sam Altman emails Elon Musk](https://www.techemails.com/p/elon-musk-and-openai) - Internal Tech Emails
 
 ## 🛠️ Product Ops
 Enabling product management.
@@ -127,6 +130,7 @@ One of the most critical tasks for building strong product teams.
 * [Are You Tracking the Right Metrics?](https://www.productcompass.pm/p/are-you-tracking-the-right-metrics) - Ben Yoskovitz, 2023
 * [AARRR vs RARRA: Pirate Metrics Explained](https://www.mindtheproduct.com/aarrr-vs-rarra-pirate-metrics-explained/) - Ben Crouch, 2020 
 * [The Role of Analytics](https://www.svpg.com/the-role-of-analytics/) - Marty Cagan, 2014
+* [Web Analytics 101: Definitions: Goals, Metrics, KPIs, Dimensions, Targets](https://www.kaushik.net/avinash/web-analytics-101-definitions-goals-metrics-kpis-dimensions-targets/) - Avinash Kaushik, 2010
 
 ## 🎤 Product Talks 
 * [Business Cases are Stories about Money (Video from Product@Heart)](https://www.mironov.com/moneystories-ph/) - Rich Mironov, 2024
