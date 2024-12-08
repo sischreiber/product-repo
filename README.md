@@ -7,6 +7,7 @@ Leveraging the product as the primary driver for growth.
 * [Economic downturn is driving companies to embrace PLG](https://www.mindtheproduct.com/survey-insights-economic-downturn-is-driving-companies-to-embrace-product-led-growth/) - Louron Pratt, Mind the Product, 2023
 * [Product-Led Growth and UX](https://www.nngroup.com/articles/product-led-growth-ux/) - Sara Paul, Nielsen Norman Group, 2023
 * [Leah's Product-led Growth Guide 3.0]() - Leah Tharin, 2023
+* [Deep-Dive: Product Led Growth](https://productcollective.com/product-led-growth-2/) - Mike Belsito, Product Collective, 2024
 
 ## 🌍 Product Management in Leading Tech Companies
 Learning from the product management culture and best practices.
@@ -16,6 +17,7 @@ Learning from the product management culture and best practices.
 * [The Product Model at Spotify](https://www.svpg.com/product-model-at-spotify/) - Marty Cagan and Joakim Sundén, 2023
 * [Inside How Stripe Crafts Quality Products](https://creatoreconomy.so/p/how-stripe-crafts-quality-products-katie-dill) - Peter Yang interviews Katie Dill, 2024
 * [How LinkedIn became interesting: The inside story](https://www.lennysnewsletter.com/p/how-linkedin-became-interesting-tomer-cohen) - Tomer Cohen 🎙️ Lenny's Podcast, 2024
+* [How to Take Bigger, Bolder Product Bets — Lessons from Slack’s CPO](https://review.firstround.com/how-to-take-bigger--bolder-product-bets-lessons-from-slacks-chief-product-officer/) - First Round, 2024
  
 ## 🧭 Product Strategy
 Developing a compelling product vision and aligning the organization around strategic objectives.
@@ -33,6 +35,7 @@ Achieving professional growth as a product manager.
 * [Moving Up to Product Director](https://www.mironov.com/moving-up/) - Rich Mironov, 2024
 * [Are We Getting Rid of Product Managers?](https://melissaperri.com/blog/2023/7/7/are-we-getting-rid-of-product-managers) - Melissa Perri, 2023
 * [It’s Time to Fight for a Dual PM Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - Ken Norton, 2021
+* [How to Write a Product Manager Resume](https://www.productmanagerhq.com/career/product-manager/product-manager-resume/) - Clement Kao, Product Manager HQ, 2024
 
 ## 🌟 Product Leadership
 Empowering teams. Driving strategy. Developing team members.
@@ -45,12 +48,16 @@ Empowering teams. Driving strategy. Developing team members.
 * [Product Management: It’s a System for Business Success, not Product Features](https://swkhan.medium.com/product-management-its-a-system-for-business-success-not-product-features-fefa2662621f) - Saeed Khan, 2023
 * [10 things I learned from Jason Fried about Building Products](https://uxplanet.org/10-things-i-learned-from-jason-fried-about-building-products-5b6694ff02aa), Jonathan Courtney, 2018
 * [What It Takes to Become a Great Product Manager](https://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) 🔒 - Julia Austin, HBR, 2017
+* [Product Judgment: How some people can repeatedly create product success](https://www.intercom.com/blog/product-judgment/) - Paul Adams, Intercom
+* [Chapter 7: Product Management](https://growth.eladgil.com/book/chapter-7-product-management/) - Elad Gil, High Growth Handbook
+* [Product Management TACTICS Vol. 4 free eBook](https://producttactics.com/) - Product Collective
 
 ## 🔎 Product Discovery
 Building a continuous discovery mindset to uncover customer needs and solutions that address them.
 * [Product Discovery Basics: Everything You Need to Know](https://www.producttalk.org/2021/08/product-discovery/) - Teresa Torres, 2021 (updated in 2024)
 * [Product Discovery - A Practical Guide for Product Teams](https://herbig.co/product-discovery/) - Tim Herbig, 2023
-* [Product Discovery Recipes](https://jpattonassociates.com/product-discovery-recipes/) - Jeff Patton, 2020 
+* [Product Discovery Recipes](https://jpattonassociates.com/product-discovery-recipes/) - Jeff Patton, 2020
+* [We did all this discovery... now how do we decide?](https://www.feltpresence.com/discovery-how-to-decide/) - Ryan Singer, 2024
 
 ## ⚙ AI
 No longer the next big thing, but an integral part of product development.
@@ -59,7 +66,7 @@ No longer the next big thing, but an integral part of product development.
 * [AI Integration and Modularization](https://stratechery.com/2024/ai-integration-and-modularization/), Ben Thompson, Stratechery, 2024
 * [AI Features Must Solve Real User Problems](https://www.nngroup.com/articles/ai-user-value/) - Kate Moran, Nielsen Norman Group, 2024
 * [Becoming an AI PM](https://www.lennysnewsletter.com/p/becoming-an-ai-pm-aman-khan) - Aman Khan 🎙️ Lenny's Podcast, 2024
-* [Sam Altman emails Elon Musk](https://www.techemails.com/p/elon-musk-and-openai) - Internal Tech Emails
+* [Deep-Dive: AI for Product Managers](https://productcollective.com/ai-for-product-managers/) - Mike Belsito, Product Collective, 2024
 
 ## 🛠️ Product Ops
 Enabling product management.
@@ -79,9 +86,9 @@ Work collaboratively to deliver value in continuous steps.
 * [Are Agile and Scrum Dead?](https://www.mountaingoatsoftware.com/blog/is-scrum-dead-is-agile-dead) - Mike Cohn, 2024
 * [Early Pain](https://martinfowler.com/bliki/EarlyPain.html) - Martin Fowler, 2008
 * [The Tragedy of Craftsmanship](https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html) - Robert C. Martin (Uncle Bob), 2018
+* [Toward better](https://seths.blog/2024/11/toward-better-3/) - Seth Godin, 2024
 
-## 📖 Books for Product Managers
-Essential reading lists.
+## 📖 Product Management Reading Lists
 * [Best Books for Product Managers](https://www.bringthedonuts.com/essays/books-for-product-managers.html) - Ken Norton, 2024
 * [Top Product Management Books](https://res.productcompass.pm/top-product-management-books) - Pawel Huryn
 
@@ -101,12 +108,14 @@ Strategies and actions to promote the growth of a product.
 ## 💯 Product-Market Fit
 Without a market, there is no product.
 * [The only thing that matters](https://pmarchive.com/guide_to_startups_part4.html) - Marc Andreessen, 2007
+* [20 Lessons From 20 Different Paths to Product-Market Fit](https://review.firstround.com/20-lessons-from-20-different-paths-to-product-market-fit-advice-for-founders-from-founders/) - First Round, 2024
 
 ## ☁️ Platform Product Management
 The product enabling the product.
 * [What is platform as a product?](https://teamtopologies.com/videos-slides/what-is-platform-as-a-product-clues-from-team-topologies) - Matthew Skelton, 2021
 * [Platforms as products](https://www.thoughtworks.com/insights/looking-glass/platforms-as-products) - Thoughtworks, 2024
 * [How platform teams get stuff done](https://martinfowler.com/articles/platform-teams-stuff-done.html) - Pete Hodgson (martinfowler.com), 2023
+* [Platform Teams](https://blog.pragmaticengineer.com/platform-teams/) - Gergely Orosz, The Pragmatic Engineer, 2023
 
 ## ✨ Product Coaching
 * [Product Coaching and “Show, Don’t Tell”](https://www.mironov.com/show-tell/) - Rich Mironov, 2022
@@ -121,7 +130,7 @@ One of the most critical tasks for building strong product teams.
 * [Hiring a Head of Product](https://www.mironov.com/hiring/) - Rich Mironov, 2020
 * [Interviewing your first product manager](https://joshelman.medium.com/interviewing-your-first-product-manager-8b26badad98d) - Josh Elman, 2022
 * [How to Hire a Product Manager](https://www.bringthedonuts.com/essays/productmanager.html) - Ken Norton, 2005 (updated in 2023)
-* [Chris Favorite Interview Question](https://www.svpg.com/chris-favorite-interview-question/) - Chris Jones (SVPG), 2018
+* [Chris Favorite Interview Question](https://www.svpg.com/chris-favorite-interview-question/) - Chris Jones, SVPG, 2018
 * [On hiring, rehiring, and one question to answer them all](https://world.hey.com/jason/on-hiring-rehiring-and-one-question-to-answer-them-all-5db97bcb) - Jason Fried, 2023
 * [2000+ PM Interview Questions](https://docs.google.com/spreadsheets/d/1rz10oEeLx-eGnilahKczYPhGfCUzIEKL-xRnjoQ-SX4/edit?gid=1024620532#gid=1024620532) - Lewis Lin
 
@@ -135,20 +144,31 @@ One of the most critical tasks for building strong product teams.
 * [Promise not to promise](https://world.hey.com/jason/promise-not-to-promise-18eca88a) - Jason Fried, 2023
 * [The Alternative to Roadmaps](https://www.svpg.com/the-alternative-to-roadmaps/) - Marty Cagan, 2015
 
-## 🎨 UX
+## 🏗️ UX
 * [Where did the term User Experience (UX) come from?](https://jnd.org/where-did-the-term-user-experience-ux-come-from/) - Don Norman, 2023
 
-## 🔢 Analytics
+## ⛓️ Scaling
+* [Lessons learned from scaling a product team](https://www.intercom.com/blog/how-we-build-software/) - Paul Adams, Intercom, 2020
+* [Chapter 5: Organizational structure and hypergrowth](https://growth.eladgil.com/book/chapter-5-organizational-structure-and-hypergrowth/) - Elad Gil, High Growth Handbook
+* [Blitzscaling 08: Eric Schmidt on Structuring Teams and Scaling Google]() - Reid Hoffman ▶️ Stanford University, 2015
+
+## 🧮 Analytics
 * [Are You Tracking the Right Metrics?](https://www.productcompass.pm/p/are-you-tracking-the-right-metrics) - Ben Yoskovitz, 2023
 * [AARRR vs RARRA: Pirate Metrics Explained](https://www.mindtheproduct.com/aarrr-vs-rarra-pirate-metrics-explained/) - Ben Crouch, 2020 
 * [The Role of Analytics](https://www.svpg.com/the-role-of-analytics/) - Marty Cagan, 2014
 * [Web Analytics 101: Definitions: Goals, Metrics, KPIs, Dimensions, Targets](https://www.kaushik.net/avinash/web-analytics-101-definitions-goals-metrics-kpis-dimensions-targets/) - Avinash Kaushik, 2010
+* [Thinking in Metrics](https://eleganthack.com/6501-2/) -  Christina Wodtke, 2024
 
-## 🏆 OKRs
+## 📌 OKRs
 * [Why teams often struggle with OKRs: A conversation with Jeff Gothelf](https://www.mindtheproduct.com/why-most-companies-struggle-with-okrs-a-conversation-with-jeff-gothelf/) - Louron Pratt, Mind the Product, 2023
 
-## 🎤 Product Talks 
-* [Business Cases are Stories about Money (Video from Product@Heart)](https://www.mironov.com/moneystories-ph/) - Rich Mironov, 2024
+## 🫶 Product Culture
+* [What Makes a Great Product Culture?](https://www.petra-wille.com/blog/what-makes-a-great-product-culture-a-guide-for-product-leaders) - Petra Wille, 2024
+* [Gemini and Google’s Culture](https://stratechery.com/2024/gemini-and-googles-culture/) - Ben Thompson, Stratechery, 2024
+* [The Curse of Culture](https://stratechery.com/2016/the-curse-of-culture/) - Ben Thompson, Stratechery, 2016
+
+## 📐 Business Case
+* [Business Cases are Stories about Money](https://www.mironov.com/moneystories-ph/) - Rich Mironov ▶️ Product@Heart, 2024
 
 ## 📝 Best Practices: Release Notes
 How to document software product improvements and fixes.
